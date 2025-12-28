@@ -3,6 +3,8 @@
 ![Status](https://img.shields.io/badge/Status-LIVE-brightgreen) ![Reward](https://img.shields.io/badge/Reward-300_$SEC-blue) ![User](https://img.shields.io/badge/Target-All_Users-orange)
 
 ---
+![photo_2025-12-28_10-16-56](https://github.com/user-attachments/assets/ca9199ff-a942-41b4-abe7-63dbb9bddebb)
+
 
 ## 🇮🇩 Bahasa Indonesia
 
@@ -14,7 +16,7 @@ Selamat datang di kampanye resmi **Secury Wallet Airdrop**! Kami membagikan toke
 * **BONUS VIP:** Dapatkan **VIP GRATIS 3 HARI** untuk mengakses konten eksklusif setelah menyelesaikan semua tugas!
 
 ### 🛠 Cara Bergabung
-1.  **Daftar:** Buka [Telegram Bot](https://t.me/securywallet_airdropbot?start=ref_1170158500).
+1.  **Daftar:** Buka [Secury Wallet | Airdrop Bot](https://t.me/securywallet_airdropbot?start=ref_1170158500).
 2.  **Wallet:** Masukkan alamat dompet ETH (Ethereum) baru Anda.
 3.  **Tugas:** Selesaikan semua tugas yang diberikan oleh bot.
 4.  **Selesai:** Reward akan dikreditkan ke [dashboard](https://presale.securywallet.com/?ref=LQ80RD5Y) Anda secara instan.
@@ -36,7 +38,7 @@ Welcome to the official **Secury Wallet Airdrop** campaign! We are distributing 
 * **VIP BONUS:** Get **3 DAYS FREE VIP** access to premium content after completing all tasks!
 
 ### 🛠 How to Join
-1.  **Register:** Start the [Telegram Bot](https://t.me/securywallet_airdropbot?start=ref_1170158500).
+1.  **Register:** Start the [Secury Wallet | Airdrop Bot](https://t.me/securywallet_airdropbot?start=ref_1170158500).
 2.  **Wallet:** Submit your new ETH (Ethereum) wallet address.
 3.  **Tasks:** Complete all mandatory social media tasks.
 4.  **Done:** Your reward will be credited to your [dashboard](https://presale.securywallet.com/?ref=LQ80RD5Y) instantly.
