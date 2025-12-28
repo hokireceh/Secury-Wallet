@@ -52,6 +52,7 @@ Welcome to the official **Secury Wallet Airdrop** campaign! We are distributing 
 
 ## 🔒 Privacy & Security / Privasi & Keamanan
 We never ask for your Private Key or Seed Phrase. Your data is only used for verification and reward distribution.
+
 *Kami tidak pernah meminta Private Key atau Seed Phrase Anda. Data Anda hanya digunakan untuk verifikasi dan distribusi hadiah.*
 
 ---
