@@ -17,7 +17,7 @@ Selamat datang di kampanye resmi **Secury Wallet Airdrop**! Kami membagikan toke
 1.  **Daftar:** Buka [Telegram Bot](https://t.me/securywallet_airdropbot?start=ref_1170158500).
 2.  **Wallet:** Masukkan alamat dompet ETH (Ethereum) baru Anda.
 3.  **Tugas:** Selesaikan semua tugas yang diberikan oleh bot.
-4.  **Selesai:** Reward akan dikreditkan ke dashboard Anda secara instan.
+4.  **Selesai:** Reward akan dikreditkan ke [dashboard](https://presale.securywallet.com/?ref=LQ80RD5Y) Anda secara instan.
 
 ### 📜 Syarat & Ketentuan Singkat
 * Dilarang menggunakan bot atau akun palsu (diskualifikasi otomatis).
@@ -39,7 +39,7 @@ Welcome to the official **Secury Wallet Airdrop** campaign! We are distributing 
 1.  **Register:** Start the [Telegram Bot](https://t.me/securywallet_airdropbot?start=ref_1170158500).
 2.  **Wallet:** Submit your new ETH (Ethereum) wallet address.
 3.  **Tasks:** Complete all mandatory social media tasks.
-4.  **Done:** Your reward will be credited to your dashboard instantly.
+4.  **Done:** Your reward will be credited to your [dashboard](https://presale.securywallet.com/?ref=LQ80RD5Y) instantly.
 
 ### 📜 Brief Terms & Conditions
 * Multiple accounts or botting are strictly prohibited (automatic disqualification).
